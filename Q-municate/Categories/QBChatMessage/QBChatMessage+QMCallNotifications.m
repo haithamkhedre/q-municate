@@ -18,6 +18,8 @@ static NSString * const kQMCallNotificationCallDurationKey = @"callDuration";
 
 @implementation QBChatMessage (QMCallNotifications)
 
+
+
 @dynamic callNotificationType;
 @dynamic callNotificationState;
 
